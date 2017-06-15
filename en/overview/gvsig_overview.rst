@@ -29,8 +29,8 @@ gvSIG is known for:
 
 * integrating in the same view both local and remote data through OGC standards.
 * being easily extendible, allowing continuous application enhancement, as well as enabling the development of tailor-made solutions.
-* being available in over 20 languages (Spanish, English, German, French, Italian,...).
-* being available for Windows and Linux (there are also non-oficial Mac OS X versions).
+* being available in over 25 languages (Spanish, English, German, French, Italian,...).
+* being available for Windows, Linux and Mac OS X.
 
 .. image:: ../../images/screenshots/1024x768/gvsig_desktop.png
   :scale: 50 %
@@ -40,7 +40,7 @@ gvSIG is known for:
 Core Features
 --------------------------------------------------------------------------------
 
-* Provides common GIS tools like data loading, map navigation, query map information like alphanumeric information, distance measurement, thematic cartography, legend edition using common legend types, labelling, feature selection by many selection types, data tables with statistics, ordering, table relations, table linking, layout manager, geoprocessing tools, CAD, raster processing, etc.
+* Provides common GIS tools like data loading, map navigation, query map information like alphanumeric information, distance measurement, thematic cartography, legend edition using common legend types, labelling, feature selection by many selection types, data tables with statistics, ordering, table relations, table linking, layout manager, geoprocessing tools, CAD, raster processing, 3D, etc.
 
 * Interoperable: able to work with most known data formats:
 
@@ -73,11 +73,14 @@ Core Features
   * overviews and regions of interest management 
 
 * 3D View 
+  * spherical and flat views 
+  * animations 
+  * extrusion 
 
 * Other features: 
 
   * Scripting support (for both vector and raster data)
-  * Powerful reprojection engine via PROJ4
+  * Powerful reprojection engine 
   * Import/export symbol sets
   * Map sheets composer
   * Charts
@@ -107,7 +110,7 @@ Details
 
 **Software Version:** |version-gvsig|
 
-**Supported Platforms:** Windows, Linux
+**Supported Platforms:** Windows, Linux, Mac 
 
 **Support:** http://www.gvsig.com/en/gvsig-association, http://www.gvsig.com/en/community/mailing-lists
 
