@@ -417,7 +417,7 @@ Finding an add-on
 #. Check the add-on called *Formats: OpenStreetMap raster tiles support*.
 #. Click on *Next*.
 
-.. image:: /images/screenshots/1024x768/gvsig_qs_032_.png
+.. image:: /images/screenshots/1024x768/gvsig_qs_032__.png
    :scale: 55
 
 Finishing the installation
@@ -430,18 +430,21 @@ Finishing the installation
 .. image:: /images/screenshots/1024x768/gvsig_qs_033_.png
    :scale: 55
 
-Trying the new add-on: adding a OpenStreetMap layer
+Althought the new message indicates that a restart is needed, for symbol libraries it's not necessary. We only have to restart when we install plugins. 
+
+
+Visualizing OpenStreetMap data
+================================================================================
+
+Adding an OpenStreetMap layer to a View
 --------------------------------------------------------------------------------
 
-As estated in the message we find after the installation of the add-on, a restart
-is needed.
-
-#. Coming back in gvSIG, within a new view, click on the :guilabel:`Add layer…` button.
+#. Within a new view in gvSIG, in EPSG: 3857, click on the :guilabel:`Add layer…` button.
 #. Choose the *OSM* tab.
 #. Select one of the available layers.
 #. Click on *Ok*.
 
-.. image:: /images/screenshots/1024x768/gvsig_qs_036_.png
+.. image:: /images/screenshots/1024x768/gvsig_qs_036__.png
    :scale: 55
 
 The result
